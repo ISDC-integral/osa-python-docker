@@ -1,1 +1,4 @@
 Dockerfile.gpg
+*.sif
+.local
+.jupyter

@@ -17,7 +17,7 @@ $ make test
 To run an interactive jupyter lab:
 
 ```bash
-$ make run
+$ make jupyter
 ```
 
 ## Image Contents
